@@ -19,7 +19,7 @@ function hideEmail($email)
 }
 
 
-// Echoes img html 
+// Echoes img html
 function imgSrcset($img, $classes = false)
 {
   if (empty($img)) return;
