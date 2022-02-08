@@ -20,7 +20,4 @@
 
   <!-- Use PSR-2 as a base -->
   <rule ref="PSR2"/>
-  <rule ref="Squiz.Arrays.ArrayBracketSpacing"/>
-  <rule ref="Squiz.PHP.DisallowInlineIf"/>
-  <rule ref="Squiz.Arrays.ArrayDeclaration"/>
 </ruleset>

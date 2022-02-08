@@ -32,7 +32,7 @@ jobs:
 
     - name: Run phpcs
       run: composer run-script phpcs
-      
+
     - name: Notify Slack Action
       uses: ravsamhq/notify-slack-action@v1
       if: always()
